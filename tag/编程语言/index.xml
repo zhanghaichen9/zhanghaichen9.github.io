@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>编程语言 | CoMath</title>
+    <link>https://zhanghaichen9.github.io/tag/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/</link>
+      <atom:link href="https://zhanghaichen9.github.io/tag/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/index.xml" rel="self" type="application/rss+xml" />
+    <description>编程语言</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 CoMath Powered by Hugo Theme Academic</copyright><lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhanghaichen9.github.io/images/logo_hud8da91bfe93f3d7d35fd2296e35ef0bf_39934_300x300_fit_lanczos_2.png</url>
+      <title>编程语言</title>
+      <link>https://zhanghaichen9.github.io/tag/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/</link>
+    </image>
+    
+    <item>
+      <title>Typora使用</title>
+      <link>https://zhanghaichen9.github.io/post/0-typora%E4%BD%BF%E7%94%A8/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://zhanghaichen9.github.io/post/0-typora%E4%BD%BF%E7%94%A8/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;文字特殊标注&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;使用方式：#一级标题	##二级标题	######六级标题&lt;/p&gt;
+&lt;h1 id=&#34;一级标题&#34;&gt;一级标题&lt;/h1&gt;
+&lt;h2 id=&#34;二级标题&#34;&gt;二级标题&lt;/h2&gt;
+&lt;h6 id=&#34;六级标题&#34;&gt;六级标题&lt;/h6&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;下划线&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ctrl+u&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;下划线&lt;/u&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;强调&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;使用方式：在强调的内容前后各添加两个*&lt;/p&gt;
+&lt;p&gt;ctrl+b&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;强调的内容&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;斜体&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;使用方式：内容前后各添加一个*&lt;/p&gt;
+&lt;p&gt;ctrl+i&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;斜体内容&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;删除线&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;使用方式：内容前后各添加两个~&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;删除线&lt;/del&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;高亮&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;使用方式：内容前后各添加两个=&lt;/p&gt;
+&lt;p&gt;==高亮==&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;list&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;有序列表&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;使用方式：数字1+.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;无序列表&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;使用方式：+/-/*&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;table&lt;/p&gt;
+&lt;p&gt;ctrl+t&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;序号&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;姓名&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;成绩&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;排名&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;张三&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;100&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;分割线&lt;/p&gt;
+&lt;p&gt;使用方式：输入三个及以上*或-&lt;/p&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;插入元素&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;图片&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;插入本地图片：直接把图片拖入即可；
+插入网络图片：! [图片标题] (图片链接)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=1371234142,2709252765&amp;amp;fm=58&amp;amp;bpow=374&amp;amp;bpoh=374&#34; alt=&#34;辽宁工程技术大学&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;链接&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;使用方式：[链接提示] (链接地址)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;www.baidu.com&#34;&gt;百度&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;数学公式&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;使用方式：$$ 回车
+$$
+x^2+x_1+7=0
+$$&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;代码&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;行内代码：代码两端各加一个`&lt;/p&gt;
+&lt;p&gt;​	&lt;code&gt;System.out.println();&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;代码块：输入三个~ 回车&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-java&#34;&gt;public static void main(String[] args){
+   System.out.println(&amp;quot;hello world&amp;quot;);   
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;注意&#34;&gt;注意&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;使用信号符和文字间加一个空格或回车，即可产生效果&lt;/li&gt;
+&lt;li&gt;强大的导出功能&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>说说 | CoMath</title>
+    <link>https://zhanghaichen9.github.io/talk/</link>
+      <atom:link href="https://zhanghaichen9.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>说说</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 CoMath Powered by Hugo Theme Academic</copyright><lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhanghaichen9.github.io/images/logo_hud8da91bfe93f3d7d35fd2296e35ef0bf_39934_300x300_fit_lanczos_2.png</url>
+      <title>说说</title>
+      <link>https://zhanghaichen9.github.io/talk/</link>
+    </image>
+    
+    <item>
+      <title>测试-Demo</title>
+      <link>https://zhanghaichen9.github.io/talk/demo/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://zhanghaichen9.github.io/talk/demo/</guid>
+      <description>&lt;p&gt;一个人最好的生活状态，是该看书时看书，该玩时尽情玩，看见优秀的人欣赏，看到落魄的人也不轻视，有自己的小生活和小情趣，不用去想改变世界，努力去活出自己。没人爱时专注自己，有人爱时，有能力拥抱彼此&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
